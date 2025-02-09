@@ -19,7 +19,7 @@ int main()
                             for(num[8]=48;num[8]<58;num[8]++){
                                 for(num[9]=48;num[9]<58;num[9]++){
                                     for(num[10]=48;num[10]<58;num[10]++){
-                                        fprintf(stdout,"%c%c%c%c%c%c%c%c%c%c%c\n",num[0],num[1],num[2],num[3],num[4],num[5],num[6],num[7],num[8],num[9],num[10])  ;
+                                        fprintf(new,"%c%c%c%c%c%c%c%c%c%c%c\n",num[0],num[1],num[2],num[3],num[4],num[5],num[6],num[7],num[8],num[9],num[10])  ;
                                     }
                                 }
                             }
